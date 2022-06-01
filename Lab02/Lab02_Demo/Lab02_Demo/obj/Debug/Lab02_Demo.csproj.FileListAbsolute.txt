@@ -1,0 +1,10 @@
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe.config
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.pdb
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csprojAssemblyReference.cache
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.Properties.Resources.resources
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.GenerateResource.cache
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.CoreCompileInputs.cache
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.exe
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.pdb
+D:\BaiTap\Winform_Desktop\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.frmTrungTam.resources

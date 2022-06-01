@@ -1,0 +1,3 @@
+SV.00001*Nguyễn Văn An*12/5/2001*20 Nguyễn Văn Trỗi*CTK32*HSV.jpg*1*Mạng truyền thông,Trí tuệ nhân tạo,Tin học ứng dụng
+SV.00002*Lê Văn Hoàng Anh*8/31/2000*2 Phan Đình Phùng*CTK31*HSV.jpg*1*Công nghệ phần mềm,Hệ thống thông tin
+SV.00003*Trần Ngọc Bình*11/12/2002*6 Cách Mạng Tháng Tám*CTK33*HSV.jpg*1*Công nghệ phần mềm, Trí tuệ nhân tạo

@@ -1,0 +1,11 @@
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csprojAssemblyReference.cache
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\BaiTap\Winform_Desktop\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmTuyChon.resources
