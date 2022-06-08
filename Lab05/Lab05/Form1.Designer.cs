@@ -1,6 +1,6 @@
 ﻿namespace Lab05
 {
-    partial class Form1
+    partial class frmSV
     {
         /// <summary>
         /// Required designer variable.
@@ -45,12 +45,16 @@
             this.rdNam = new System.Windows.Forms.RadioButton();
             this.rdNu = new System.Windows.Forms.RadioButton();
             this.txtTen = new System.Windows.Forms.TextBox();
+            this.cbLop = new System.Windows.Forms.ComboBox();
+            this.mtxtSoDT = new System.Windows.Forms.MaskedTextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.clbMonHoc = new System.Windows.Forms.CheckedListBox();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(61, 55);
+            this.label1.Location = new System.Drawing.Point(41, 55);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(37, 13);
             this.label1.TabIndex = 0;
@@ -59,7 +63,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(61, 83);
+            this.label2.Location = new System.Drawing.Point(41, 83);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(68, 13);
             this.label2.TabIndex = 1;
@@ -86,7 +90,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(61, 116);
+            this.label5.Location = new System.Drawing.Point(41, 116);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(54, 13);
             this.label5.TabIndex = 4;
@@ -104,7 +108,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(61, 149);
+            this.label7.Location = new System.Drawing.Point(41, 149);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(55, 13);
             this.label7.TabIndex = 6;
@@ -123,7 +127,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(61, 184);
+            this.label9.Location = new System.Drawing.Point(41, 184);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(76, 13);
             this.label9.TabIndex = 8;
@@ -132,7 +136,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(61, 222);
+            this.label10.Location = new System.Drawing.Point(41, 247);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(91, 13);
             this.label10.TabIndex = 9;
@@ -199,11 +203,56 @@
             this.txtTen.Size = new System.Drawing.Size(167, 20);
             this.txtTen.TabIndex = 16;
             // 
-            // Form1
+            // cbLop
+            // 
+            this.cbLop.FormattingEnabled = true;
+            this.cbLop.Location = new System.Drawing.Point(393, 113);
+            this.cbLop.Name = "cbLop";
+            this.cbLop.Size = new System.Drawing.Size(167, 21);
+            this.cbLop.TabIndex = 17;
+            // 
+            // mtxtSoDT
+            // 
+            this.mtxtSoDT.Location = new System.Drawing.Point(393, 146);
+            this.mtxtSoDT.Name = "mtxtSoDT";
+            this.mtxtSoDT.Size = new System.Drawing.Size(167, 20);
+            this.mtxtSoDT.TabIndex = 18;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(143, 181);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(417, 20);
+            this.textBox1.TabIndex = 19;
+            // 
+            // clbMonHoc
+            // 
+            this.clbMonHoc.FormattingEnabled = true;
+            this.clbMonHoc.ImeMode = System.Windows.Forms.ImeMode.On;
+            this.clbMonHoc.Items.AddRange(new object[] {
+            "Mạng máy tính",
+            "Hệ điều hành",
+            "Lập trình CSDL",
+            "Lập trình mạng",
+            "Đồ án cơ sở ",
+            "Phương pháp nghiên cứu khóa học",
+            "Lập trình trên thiết bị di động",
+            "An toàn và bảo mật thông tin"});
+            this.clbMonHoc.Location = new System.Drawing.Point(143, 225);
+            this.clbMonHoc.MultiColumn = true;
+            this.clbMonHoc.Name = "clbMonHoc";
+            this.clbMonHoc.Size = new System.Drawing.Size(417, 64);
+            this.clbMonHoc.TabIndex = 20;
+            // 
+            // frmSV
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(704, 505);
+            this.ClientSize = new System.Drawing.Size(677, 505);
+            this.Controls.Add(this.clbMonHoc);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.mtxtSoDT);
+            this.Controls.Add(this.cbLop);
             this.Controls.Add(this.txtTen);
             this.Controls.Add(this.rdNu);
             this.Controls.Add(this.rdNam);
@@ -221,7 +270,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "frmSV";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -247,6 +296,10 @@
         private System.Windows.Forms.RadioButton rdNam;
         private System.Windows.Forms.RadioButton rdNu;
         private System.Windows.Forms.TextBox txtTen;
+        private System.Windows.Forms.ComboBox cbLop;
+        private System.Windows.Forms.MaskedTextBox mtxtSoDT;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.CheckedListBox clbMonHoc;
     }
 }
 

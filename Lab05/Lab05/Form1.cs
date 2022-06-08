@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Lab05
 {
-    public partial class Form1 : Form
+    public partial class frmSV : Form
     {
-        public Form1()
+        public frmSV()
         {
             InitializeComponent();
         }
