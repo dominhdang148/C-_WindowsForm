@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OnThi
+namespace BaiTapOnThi
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace OnThi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmQuanLy());
+            Application.Run(new frm_QuanLy());
         }
     }
 }
